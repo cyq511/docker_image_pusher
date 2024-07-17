@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-calico/kube-controllers:v3.27.4
+#calico/kube-controllers:v3.27.4
+ubunt
