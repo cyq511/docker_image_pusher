@@ -7,4 +7,5 @@
 #calico/kube-controllers:v3.27.4
 #ubunt
 #rancher/rancher-agent:v2.7.1
-rancher/rancher:v2.9.0-rc6-arm64
+#rancher/rancher:v2.9.0-rc6-arm64
+rancher/rancher:v2.9.0
